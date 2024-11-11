@@ -3,3 +3,6 @@ Trainer=Gani
 
 echo DevOps Trainer - $Trainer
 echo AWS Trainer - $Trainer
+
+
+# Variable name can comprise
